@@ -1,5 +1,4 @@
-# **Luis Gabriel Lagurdia**  
-📍 Makati City, Philippines
+# **Luis Laguardia**  
 
 ---
 

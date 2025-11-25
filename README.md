@@ -1,48 +1,42 @@
-# 👋 Hi, I'm Luis!
+# 👋 Hi, I'm Luis Gabriel Laguardia!
 
-I'm a software developer who loves building useful, clean, and efficient applications.  
-I enjoy working on real-world projects, improving systems, and learning new technologies along the way.
+**Software Developer • Cybersecurity Enthusiast • IoT Innovator**
 
----
-
-## What I Do
-- Full-stack development  
-- Mobile & Web apps  
-- Backend APIs & databases  
-- Turning ideas into working solutions  
+I'm a BS IT student passionate about building secure, scalable solutions—from IoT energy systems to encrypted chat platforms. I love participating in hackathons, CTF challenges, and turning ideas into real-world applications.
 
 ---
 
-## Tech I Use
-**Languages & Frameworks**  
-JavaScript · Node.js · Express · React · Flutter · Dart · SQL · MongoDB  
+## Tech Stack
 
-**Tools & Platforms**  
-Vite · Tailwind · Firebase · Render · Vercel · Git · Figma  
+**Languages:** JavaScript • Python • Dart • Java • C++ • PHP • SQL  
+**Frameworks:** React • Next.js • Flutter • Express • Laravel • Kivy • Tailwind  
+**Tools:** Git • Docker • Firebase • MongoDB • Vercel • Postman
+
+---
+
+## Highlights
+
+Best App Award - NU Manila Techfiesta 2024  
+Champion - JPCS Programming Competition  
+2nd Placer - Alertong Arduino Hackathon 2025  
+Multiple CTF & Hackathon Finalist
 
 ---
 
 ## GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=luuuuuuuilaguardia&theme=react&hide_border=true&show_icons=true)
 
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=luuuuuuuilaguardia&theme=react&hide_border=true&show_icons=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luuuuuuuilaguardia&theme=react&hide_border=true&layout=compact)
+
+</div>
 
 ---
 
 ## Connect With Me
-**LinkedIn:** https://www.linkedin.com/in/devluislaguardia
-**Email:** laguardialuisgabriel@gmail.com
-**Website:** https://luislaguardia.vercel.app
 
----
-
-
-## **Skills**
-
-- **Programming Languages:** JavaScript, Python, Dart, SQL, Java, C++, C#, PHP
-- **Frameworks & Libraries:** React.js, Express.js, Tailwind CSS, Flutter, KivyMD, Laravel, Django
-- **Tools & Platforms:** Git, Docker, Firebase, Postman  
-- **Specializations:** Cybersecurity, Red Teaming, Blockchain Development, Mobile and Web Development
-- **Other Skills:** System Design, Robotics & Automation, Structural Analysis, Project Management, UI/UX
-
----
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devluislaguardia)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://luislaguardia.vercel.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laguardialuisgabriel@gmail.com)

@@ -24,14 +24,14 @@ Vite · Tailwind · Firebase · Render · Vercel · Git · Figma
 
 ## GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=luuuuuuuilaguardia&theme=react&hide_border=true&show_icons=true)
-![Streak](https://nirzak-streak-stats.vercel.app/?user=luuuuuuuilaguardia&theme=react&hide_border=true)
 
 
 ---
 
 ## Connect With Me
-**LinkedIn:** link-here  
-**Email:** email-here  
+**LinkedIn:** https://www.linkedin.com/in/devluislaguardia
+**Email:** laguardialuisgabriel@gmail.com
+**Website:** https://luislaguardia.vercel.app
 
 ---
 

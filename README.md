@@ -25,7 +25,7 @@ Vite · Tailwind · Firebase · Render · Vercel · Git · Figma
 ## GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=luuuuuuuilaguardia&theme=react&hide_border=true&show_icons=true)
 ![Streak](https://nirzak-streak-stats.vercel.app/?user=luuuuuuuilaguardia&theme=react&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luuuuuuuilaguardia&theme=react&hide_border=true&layout=compact)
+
 
 ---
 
